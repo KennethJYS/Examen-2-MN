@@ -1,1 +1,1 @@
-# Examen-2-MN
+Código base para el examen de Métodos Numéricos 2024-B.
